@@ -1,0 +1,3 @@
+juan david 
+
+este es el taller de git y git hud
